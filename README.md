@@ -8,7 +8,6 @@
 6) create a new repo in nexus with version policy as "snapshot"
 7) modiy the pipeline as per our sonarscanner name and sonarqube server name.
 
-
 Use the below code in sonarqube analysis report.
 sonar.projectKey=Ncodeit
 sonar.projectName=Ncodeit
